@@ -1,0 +1,20 @@
+{
+  "oracle": {
+    "jdbcUrl": "jdbc:oracle:thin:@localhost:1521:orcl",
+    "username": "scott",
+    "password": "tiger"
+  },
+  "gauss": {
+    "jdbcUrl": "jdbc:postgresql://localhost:5432/dbname",
+    "username": "gauss",
+    "password": "gauss"
+  },
+  "options": {
+    "compareTablespace": true,
+    "compareIndex": true,
+    "comparePrimaryKey": true,
+    "compareColumn": true
+  },
+  "threadCount": 4,
+  "outputDir": "./output"
+}
