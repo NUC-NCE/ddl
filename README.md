@@ -1,5 +1,7 @@
 # DDL Checker
 
+[English](./README_en.md) | 中文
+
 DDL 校验工具用于比对 Oracle 与 GaussDB 数据库的表结构定义是否一致。
 
 ## 功能特性

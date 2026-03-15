@@ -1,5 +1,7 @@
 # DDL Checker
 
+[中文](./README.md) | English
+
 A tool to compare DDL (Data Definition Language) between Oracle and GaussDB databases.
 
 ## Features
